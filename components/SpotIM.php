@@ -1,6 +1,6 @@
 <?php
 
-namespace NamNV609\SpotIM\Components;
+namespace NamNV609\OCSpotIM\Components;
 
 use Cms\Classes\ComponentBase;
 

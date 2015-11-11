@@ -1,6 +1,6 @@
 <?php
 
-namespace NamNV609\SpotIM;
+namespace NamNV609\OCSpotIM;
 
 use System\Classes\PluginBase;
 
@@ -19,9 +19,9 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            'NamNV609\SpotIM\Components\SpotIM' => 'spotim',
-            'NamNV609\SpotIM\Components\Comment' => 'spotimComment',
-            'NamNV609\SpotIM\Components\Count' => 'spotimRepliesCount',
+            'NamNV609\OCSpotIM\Components\SpotIM' => 'spotim',
+            'NamNV609\OCSpotIM\Components\Comment' => 'spotimComment',
+            'NamNV609\OCSpotIM\Components\Count' => 'spotimRepliesCount',
         ];
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Namnv609\Spotim\Components;
+namespace Namnv609\OCSpotim\Components;
 
 use Cms\Classes\ComponentBase;
 
