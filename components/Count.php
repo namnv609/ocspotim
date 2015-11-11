@@ -19,7 +19,7 @@ class Count extends ComponentBase
     {
         return [
             'countingText' => [
-                'name' => 'Counting text',
+                'title' => 'Counting text',
                 'description' => 'Display text for counting replies',
                 'default' => 'Counting...',
             ]
