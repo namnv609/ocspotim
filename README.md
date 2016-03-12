@@ -2,6 +2,8 @@
 
 #### How to use
 
+[Link on OctoberCMS plugins](https://octobercms.com/plugin/namnv609-ocspotim)
+
 * Clone this repository to **plugins/namnv609/ocspotim** folder in your project
 * Go to backend dashboard
 * Click to **CMS** and open theme layout (*default.htm*)
